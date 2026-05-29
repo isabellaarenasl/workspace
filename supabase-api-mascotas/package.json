@@ -1,0 +1,16 @@
+{
+  "name": "supabase-api-mascotas",
+  "version": "1.0.0",
+  "description": "Proyecto CRUD con Supabase REST y Node.js",
+  "main": "get-mascotas.js",
+  "type": "module",
+  "scripts": {
+    "get": "node get-mascotas.js",
+    "post": "node post-mascota.js",
+    "patch": "node patch-mascota.js",
+    "delete": "node delete-mascota.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
